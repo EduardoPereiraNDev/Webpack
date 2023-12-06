@@ -1,0 +1,8 @@
+npm init -y // criar arquivo package.json
+npm install --save-dev webpack webpack-cli
+npx webpack // cria o build do webpack(dist)
+npm install --save-dev style-loader css-loader
+
+npm run build
+
+npm install --save-dev-server
